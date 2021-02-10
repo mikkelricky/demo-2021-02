@@ -2,7 +2,7 @@
 // This is a test.
 echo __FILE__;
 
-$a = 87;
+$a = 42;
 
 var_export($a);
 
